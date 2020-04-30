@@ -1,0 +1,16 @@
+body {
+    color: black;
+    font-family: times new roman;
+    text-align: center;
+    overflow: auto;
+    padding: 25px;
+    padding-top: 80px;
+    position: relative;
+
+    background: #85C1E9; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#3D93CA, #85C1E9); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#3D93CA, #85C1E9); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#3D93CA, #85C1E9); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#3D93CA, #85C1E9);
+
+}
